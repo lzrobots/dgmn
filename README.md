@@ -1,4 +1,4 @@
-# Faster R-CNN and Mask R-CNN in PyTorch 1.0
+# Dynamic Graph Message Passing Networks (DGMN) in PyTorch 1.0
 
 This project aims at providing the necessary building blocks for easily
 creating detection and segmentation models using PyTorch 1.0.
