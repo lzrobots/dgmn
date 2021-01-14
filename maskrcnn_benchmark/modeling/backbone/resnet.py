@@ -25,7 +25,7 @@ from torch import nn
 from maskrcnn_benchmark.layers import FrozenBatchNorm2d
 from maskrcnn_benchmark.layers import Conv2d
 from maskrcnn_benchmark.layers import DFConv2d
-from maskrcnn_benchmark.layers import DynamicWeightsCat33, DynamicWeightsCat11, ReDynamicWeightsCat33, DeformDGMN, ReDynamicWeightsCat11 #, GloReLocalModule
+from maskrcnn_benchmark.layers import DynamicWeightsCat33, DynamicWeightsCat11, ReDynamicWeightsCat33, ReDynamicWeightsCat11
 from maskrcnn_benchmark.modeling.make_layers import group_norm
 from maskrcnn_benchmark.utils.registry import Registry
 from maskrcnn_benchmark.layers import DeformUnfold

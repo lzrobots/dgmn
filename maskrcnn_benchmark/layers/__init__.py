@@ -20,8 +20,7 @@ from .dcn.deform_pool_func import deform_roi_pooling
 from .dcn.deform_pool_module import DeformRoIPooling, DeformRoIPoolingPack, ModulatedDeformRoIPoolingPack
 from .dcn.deform_unfold_func import deform_unfold
 from .dcn.deform_unfold_module import DeformUnfold
-from .dynamic_weight import DynamicWeightsCat11, DynamicWeightsCat33, ReDynamicWeightsCat33, ReDynamicWeightsCat11, DeformDGMN
-# from .dualgraph import GloReLocalModule
+from .dynamic_weight import DynamicWeightsCat11, DynamicWeightsCat33, ReDynamicWeightsCat33, ReDynamicWeightsCat11
 
 
 __all__ = [
